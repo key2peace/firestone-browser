@@ -1,5 +1,5 @@
-# firestone-browser
-Browser plugin to interact with the browser version of the game
+# firestone-helper
+Browser plugin to interact with the browser version of the game in various ways.
 
 ## Current features
 - Disable ads
